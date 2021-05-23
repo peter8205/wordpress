@@ -10,16 +10,3 @@ Lincense: GNU GEneral Public LIcense v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: two-columns, left-sidebar, custom-header, custom-menu, custom-logo, blog
 */
-
-.main-menu ul {
-    padding: 0;
-    margin: 0;
-    font-size: 18px;
-    font-weight: 500;
-    border-radius: 0;
-}
-
-.main-menu ul li {
-    display: inline;
-    margin: 0 5px 0 0;
-}
